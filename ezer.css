@@ -1,0 +1,77 @@
+@font-face {
+  font-family: 'EzerStandard';
+  src: url('https://raw.githubusercontent.com/assafhaski-dotcom/hfc-fonts/main/EzerStandard-Thin.woff2') format('woff2');
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'EzerStandard';
+  src: url('https://raw.githubusercontent.com/assafhaski-dotcom/hfc-fonts/main/EzerStandard-ExtraLight.woff2') format('woff2');
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'EzerStandard';
+  src: url('https://raw.githubusercontent.com/assafhaski-dotcom/hfc-fonts/main/EzerStandard-Light.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'EzerStandard';
+  src: url('https://raw.githubusercontent.com/assafhaski-dotcom/hfc-fonts/main/EzerStandard-Book.woff2') format('woff2');
+  font-weight: 350;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'EzerStandard';
+  src: url('https://raw.githubusercontent.com/assafhaski-dotcom/hfc-fonts/main/EzerStandard-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'EzerStandard';
+  src: url('https://raw.githubusercontent.com/assafhaski-dotcom/hfc-fonts/main/EzerStandard-SemiBold.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'EzerStandard';
+  src: url('https://raw.githubusercontent.com/assafhaski-dotcom/hfc-fonts/main/EzerStandard-Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'EzerStandard';
+  src: url('https://raw.githubusercontent.com/assafhaski-dotcom/hfc-fonts/main/EzerStandard-ExtraBold.woff2') format('woff2');
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'EzerStandard';
+  src: url('https://raw.githubusercontent.com/assafhaski-dotcom/hfc-fonts/main/EzerStandard-Black.woff2') format('woff2');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'EzerStandard';
+  src: url('https://raw.githubusercontent.com/assafhaski-dotcom/hfc-fonts/main/EzerStandard-UltraBlack.woff2') format('woff2');
+  font-weight: 950;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'EzerStandard';
+  src: url('https://raw.githubusercontent.com/assafhaski-dotcom/hfc-fonts/main/EzerStandard-Extended.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: expanded;
+}
